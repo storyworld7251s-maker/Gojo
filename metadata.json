@@ -1,0 +1,7 @@
+{
+  "name": "WB Panchayat Exam Prep",
+  "description": "Comprehensive West Bengal Panchayat Recruitment preparation app covering Bengali, English, Math, GK & Rural Development, and Civil Engineering (Nirman Sahayak) with MCQ tests, weekly mock exams, gap analytics, daily questions, and AI Doubt Solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
